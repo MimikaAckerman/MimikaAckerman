@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emily Herrera</h1>
 <h3 align="center">Tambien conocida como Mimika Ackerman</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F923097254842446708%2F&psig=AOvVaw1_HzjEn6-M86Cofa_LCv4x&ust=1674118410624000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDin5zf0PwCFQAAAAAdAAAAABBK">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emily elianny herrera gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily elianny herrera gomez" height="30" width="40" /></a>
