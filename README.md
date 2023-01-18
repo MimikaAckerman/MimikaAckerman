@@ -11,7 +11,7 @@ Actualmente lenguajes como.
 Actualmente sigo formandome en el sector del desarrollo web y de aplicaciones 😁
 
 > Comenzá donde estas.
-> Usá lo que tenes
+> Usá lo que tenes.
 > Hacé lo que puedas
 
 
