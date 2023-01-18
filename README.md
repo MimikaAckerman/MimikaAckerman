@@ -1,5 +1,5 @@
 # Hello 👾
-## _Yo soy Emily Herrera tambien conocida como Mimika Ackerman_
+## _Soy Emily Herrera tambien conocida como Mimika Ackerman_
 soy Administradora de Sistemas Informaticos y redes ademas de ser  Full Stack development 🤗. 
 Actualmente lenguajes como.
 
