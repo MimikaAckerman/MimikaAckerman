@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emily Herrera</h1>
 <h3 align="center">Tambien conocida como Mimika Ackerman</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.es/pin/474003929541354004/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/73/ed/4c/73ed4c80d21426e2444d370e187270d3.gif">
 
 
 
