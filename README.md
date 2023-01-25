@@ -1,6 +1,32 @@
-<h1 align="center">Hi 👋, I'm Emily Herrera</h1>
-<h3 align="center">Tambien conocida como Mimika Ackerman</h3>
+# Hi,I'm Emily Herrera! 😸
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/73/ed/4c/73ed4c80d21426e2444d370e187270d3.gif">
+
+## 👾 about me
+Actualmente soy Front end Developer
+apasionada por el mundo de la
+tecnología con conocimientos en
+distintos lenguajes y librerías como :
+- HTML 
+- Css
+- SASS
+- Javascript
+- PHP
+- MySql 
+- MongoDB 
+- NodeJs
+- React 
+-  Vite
+- etc....
+También poseo conocimientos en el
+Sector de Sistemas manejando
+distintos sistemas operativos como:
+- Windows y Linux
+
+
+
+
+
+
 
 
 
