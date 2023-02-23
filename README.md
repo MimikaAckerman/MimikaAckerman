@@ -7,7 +7,8 @@
 
 
 
-Actualmente soy Front end Developer
+soy Full Stack Developer enfocada en el Frontend 
+y Administradora de Sistemas informaticos y Redes
 apasionada por el mundo de la
 tecnología con conocimientos en
 distintos lenguajes , librerías y herramientas como :
