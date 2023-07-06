@@ -1,5 +1,5 @@
 # Hi,I'm Emily Herrera! 😸
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/56/40/1a/56401aa642257042933e8ecafbae9eaa.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/39/9d/9d/399d9d69af9171424c095527ba1deec1.jpg">
 
 > Comienza donde estas.
 > Usa lo que tienes.
