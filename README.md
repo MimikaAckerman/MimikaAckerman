@@ -1,10 +1,7 @@
 # Hi,I'm Emily Herrera! 😸
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/aa/a4/0a/aaa40aff4b7e043eb01eb3ccdfc9e31c.jpg">
 
-> Comienza donde estas.
-> Usa lo que tienes.
-> Has lo que puedas.
-
+> La honestidad por las cosas pequeñas no es algo menor -> Clean code Robert Cecil Martin
 
 
 Soy una programadora Full Stack y
@@ -37,8 +34,8 @@ videojuegos.
 </p>
 <h3 align="left">Herramientas y otros:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thunderclient/thunderclient-original-wordmark.svg" alt="Thunder Client" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/thunderclient.svg" alt="Thunder Client" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -47,6 +44,7 @@ videojuegos.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
 </p>
+
 
 
 <h3 align="left">Conéctate conmigo:</h3>
