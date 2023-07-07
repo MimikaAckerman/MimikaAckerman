@@ -5,7 +5,7 @@
 
 Soy una programadora Full Stack y administradora de sistemas con experiencia en lenguajes de programación frontend y backend. Tengo conocimientos en Windows y Linux, adaptándome fácilmente a diferentes entornos. He trabajado con frameworks y librerías como .NET, React, Next.js y Django, construyendo aplicaciones web dinámicas y de alto rendimiento. Además, soy una apasionada del deporte y los videojuegos.
 
-<h3 align="left">Lenguajes</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -24,7 +24,7 @@ Soy una programadora Full Stack y administradora de sistemas con experiencia en 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
 <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Next.js" width="40" height="40" style="background-color:#24292e; padding:4px; border-radius:50%" />
 <img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Django" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40" />
 </p>
 
 <h3 align="left">Herramientas y otros:</h3>
