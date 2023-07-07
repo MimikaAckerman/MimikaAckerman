@@ -39,7 +39,4 @@ Soy una programadora Full Stack y administradora de sistemas con experiencia en 
 <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate" width="40" height="40"/>
 </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emilyeliannyherreragomez" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilyeliannyherreragomez" height="30" width="40" /></a>
-</p>
+
