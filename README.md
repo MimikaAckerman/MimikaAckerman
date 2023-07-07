@@ -3,7 +3,7 @@
 
 > "La honestidad por las cosas pequeñas no es algo menor" - Clean Code de Robert Cecil Martin
 
-Soy una programadora Full Stack y administradora de sistemas con experiencia en lenguajes de programación frontend y backend. Tengo conocimientos en Windows y Linux, adaptándome fácilmente a diferentes entornos. He trabajado con frameworks y librerías como .NET, React y Next.js, construyendo aplicaciones web dinámicas y de alto rendimiento. Además, soy una apasionada del deporte y los videojuegos.
+Soy una programadora Full Stack y administradora de sistemas con experiencia en lenguajes de programación frontend y backend. Tengo conocimientos en Windows y Linux, adaptándome fácilmente a diferentes entornos. He trabajado con frameworks y librerías como .NET, React, Next.js y Django, construyendo aplicaciones web dinámicas y de alto rendimiento. Además, soy una apasionada del deporte y los videojuegos.
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
@@ -16,11 +16,17 @@ Soy una programadora Full Stack y administradora de sistemas con experiencia en 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Django" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
 <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Next.js" width="40" height="40" style="background-color:#24292e; padding:4px; border-radius:50%" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+<h3 align="left">Frameworks y Librerías:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
+<img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Next.js" width="40" height="40" style="background-color:#24292e; padding:4px; border-radius:50%" />
+<img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Django" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
 </p>
 
 <h3 align="left">Herramientas y otros:</h3>
@@ -30,10 +36,6 @@ Soy una programadora Full Stack y administradora de sistemas con experiencia en 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-</p>
-
-<h3 align="left">Otras herramientas:</h3>
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
 <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate" width="40" height="40"/>
