@@ -3,7 +3,7 @@
 
 > "La honestidad por las cosas pequeñas no es algo menor" - Clean Code de Robert Cecil Martin
 
-Soy una programadora Full Stack y administradora de sistemas con experiencia en lenguajes de programación frontend y backend. Tengo conocimientos en Windows y Linux, adaptándome fácilmente a diferentes entornos. He trabajado con frameworks y librerías como .NET, React, Next.js y Django, construyendo aplicaciones web dinámicas y de alto rendimiento. Además, soy una apasionada del deporte y los videojuegos.
+Soy una apasionada administradora de sistemas en red y desarrolladora full stack, amante de la tecnología y apasionada por DevOps, Big Data y ciberseguridad. También me encanta el arte, explorar el mundo a través de viajes, sumergirme en el mundo del anime y disfrutar de emocionantes videojuegos. ¡Únete a mí en este espacio donde la tecnología y la creatividad se encuentran!
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
