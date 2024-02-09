@@ -28,7 +28,7 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Next.js" width="40" height="40" style="background-color:#24292e; padding:4px; border-radius:50%" />
 <img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Django" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40" />
-<img src=" https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt=".NET" width="40" height="40" />
+<img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFEqzir_JtfZgwRcUwFVGpPibA-ZMSCm1Jg&usqp=CAU" alt=".NET" width="40" height="40" />
 </p>
 
 <h3 align="left">Herramientas y otros:</h3>
