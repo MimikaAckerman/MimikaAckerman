@@ -17,7 +17,9 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://ih1.redbubble.net/image.559998585.2504/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" alt="Node.js" width="40" height="40"/>
+<img src="https://ih1.redbubble.net/image.559998585.2504/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" alt="Node.js" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="Node.js" width="40" height="40"/>
+
 </p>
 
 <h3 align="left">Frameworks y Librerías:</h3>
@@ -26,6 +28,7 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="Next.js" width="40" height="40" style="background-color:#24292e; padding:4px; border-radius:50%" />
 <img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Django" width="40" height="40" style="background-color:white; padding:4px; border-radius:50%" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40" />
+<img src=" https://assets.stickpng.com/images/62a7475d223343fbc2207cff.png" alt=".NET" width="40" height="40" />
 </p>
 
 <h3 align="left">Herramientas y otros:</h3>
@@ -38,6 +41,7 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" alt="Blender" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
 <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:256/1*fTad5TujTyKiqb6wOFY0IQ.png" alt="Figma" width="40" height="40"/>
 </p>
 
 
