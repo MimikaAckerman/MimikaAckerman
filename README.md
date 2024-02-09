@@ -1,5 +1,5 @@
 # ¡Hola, soy Emily Herrera! 😸
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/aa/a4/0a/aaa40aff4b7e043eb01eb3ccdfc9e31c.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/e6/8b/9b/e68b9b3f617748799b2b3d04f4fa32bf.jpg">
 
 > "La honestidad por las cosas pequeñas no es algo menor" - Clean Code de Robert Cecil Martin
 
