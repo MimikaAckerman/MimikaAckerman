@@ -17,6 +17,7 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://ih1.redbubble.net/image.559998585.2504/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" alt="Node.js" width="40" height="40"/>
 </p>
 
 <h3 align="left">Frameworks y Librerías:</h3>
