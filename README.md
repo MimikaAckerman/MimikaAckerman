@@ -45,7 +45,13 @@ Soy una apasionada administradora de sistemas en red y desarrolladora full stack
 <img src="https://logos-world.net/wp-content/uploads/2023/02/Procreate-Logo.png" alt="Procreate" width="40" height="40"/>
 <img src="https://miro.medium.com/v2/resize:fit:256/1*fTad5TujTyKiqb6wOFY0IQ.png" alt="Figma" width="40" height="40"/>
 <img src="https://a.fsdn.com/allura/p/clipsrules/icon?1650646762?&w=90" alt="clips" width="40" height="40" />
-
 </p>
+
+<h3 align="left">Contacto:</h3>
+
+[MikaIdeas](https://www.tupaginaweb.com)  
+[Linkedin](https://www.linkedin.com/in/emilyehg/)
+
+
 
 
